@@ -1,0 +1,21 @@
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+ 
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 20;
+  vertical-align: middle;
+   color: rgb(250, 163, 1);
+}
+#text{
+    font-size: 2rem;
+}
+.big-number{
+    font-size: 1rem !important;
+}
+.custom-text{
+    font-size: 2em !important;
+}
